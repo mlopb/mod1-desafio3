@@ -1,0 +1,233 @@
+
+
+header{
+margin: 0%;
+width: 1280px;
+height: 73px;
+background-color: #000000;
+opacity: 1;
+}
+
+header h1{
+display: inline-block;
+margin-top: 7px;
+margin-left: 530px;
+height: 59px;
+font-size: 50px;
+text-align: left;
+font-family: Raleway;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+font-weight: 400;
+}
+
+main{
+
+    width: 1280px;
+    height: 727px;
+    opacity: 1;
+}
+
+.info-iguana{
+margin: 0%;
+width: 1280px;
+height: 348px;
+/* UI Properties */
+background-color: #000000;
+opacity: 1;
+
+}
+
+.info-iguana p {
+    /* Layout Properties */
+float: left;
+margin-top: 76px;
+margin-left: 150px;
+width: 475px;
+height: 197px;
+/* UI Properties */
+text-align: left;
+font: normal normal 300 16px/19px Raleway;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+
+
+}
+
+.info-iguana img {
+    /* Layout Properties */
+float: left;
+margin-top: 45px;
+margin-left: 106px;
+padding: 0%;
+width: 399px;
+height: 237px;
+/* UI Properties */
+opacity: 1;
+
+}
+
+.seccion-caracteristicas{
+        /* Layout Properties */
+        margin: 0%;
+    width: 1280px;
+    height: 348px;
+    /* UI Properties */
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.98;
+}
+
+.seccion-caracteristicas h1 {
+    float:left;
+    width: 100%;
+    /* Layout Properties */
+    margin-left: 463px;
+    margin-top: 75px;
+    height: 47px;
+    /* UI Properties */
+    text-align: left;
+    font-family: Raleway;
+    font-size: 40px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    font-weight: 400;
+}
+
+.tarjeta-caracteristicas1{
+    float:left;
+    text-align: center;
+    margin-left: 301px;
+    margin-top: 50px;
+}
+
+
+.tarjeta-caracteristicas1 i {
+    color: white;
+}
+
+.tarjeta-caracteristicas1 p {
+
+/* UI Properties */
+    text-align: center;
+    height: 30px;
+    font-family: Raleway;
+    font-size: 24px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+
+
+}
+
+
+.tarjeta-caracteristicas2{
+    float:left;
+    text-align: center;
+    margin-left: 182px;
+    margin-top: 50px;
+}
+
+
+.tarjeta-caracteristicas2 i {
+    color: white;
+}
+
+.tarjeta-caracteristicas2 p {
+    height: 29px;
+    width: auto;
+/* UI Properties */
+    text-align: center;
+    height: 30px;
+    font-family: Raleway;
+    font-size: 24px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+
+
+}
+.tarjeta-caracteristicas3{
+    float:left;
+    text-align: center;
+    margin-left: 146px;
+    margin-top: 50px;
+}
+
+
+.tarjeta-caracteristicas3 i {
+    color: white;
+}
+
+.tarjeta-caracteristicas3 p {
+    height: 29px;
+    width: auto;
+/* UI Properties */
+    text-align: center;
+    height: 30px;
+    font-family: Raleway;
+    font-size: 24px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+
+
+}
+
+.galeria{
+    display: inline-block;
+    width: 1280px;
+    height: 348px;
+/* UI Properties */
+    background-color: #000000
+
+}
+
+
+.galeria img{
+    width: 316px;
+    height: 202px;
+    margin-top: 73px;
+}
+
+.img1-galeria{
+    margin-left: 151px;
+}
+
+.img2-galeria{
+    margin-left: 16px;
+}
+.img3-galeria{
+    margin-left: 16px;
+}
+
+footer{
+
+
+    width: 1280px;
+    height: 102px;
+
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.94;
+}
+
+footer p {
+    display: inline-block;
+    margin-left: 299px;
+    
+
+/* UI Properties */
+text-align: left;
+font-family: Raleway;
+font-size: 20px;
+line-height: 24px;
+margin-top: 39px;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
